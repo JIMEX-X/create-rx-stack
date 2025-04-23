@@ -107,7 +107,7 @@ export function SiteHeader() {
               </Button>
               <div className="hidden md:block">
                 <Link
-                  href="https://github.com/JIMEX-M/create-rx-stack"
+                  href="https://github.com/JIMEX-X/create-rx-stack"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

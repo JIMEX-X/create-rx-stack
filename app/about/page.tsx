@@ -14,9 +14,9 @@ export default function AboutPage() {
     name: "Caleb Jimmy <RX Developer>",
     role: "Full Stack Developer",
     bio: "Passionate about creating modern web applications with the latest technologies. Specializing in React, Next.js, TypeScript, and tRPC.",
-    github: "https://github.com/JIMEX-M",
+    github: "https://github.com/JIMEX-X",
     twitter: "https://twitter.com/jimex_m",
-    website: "https://github.com/JIMEX-M",
+    website: "https://github.com/JIMEX-X",
   };
 
   return (

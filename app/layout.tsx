@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
   description:
     "Documentation for Create RX Stack - A streamlined CLI tool for bootstrapping Next.js applications with tRPC.",
-  authors: [{ name: "RX Developer", url: "https://github.com/JIMEX-M" }],
+  authors: [{ name: "RX Developer", url: "https://github.com/JIMEX-X" }],
 };
 
 export default function RootLayout({

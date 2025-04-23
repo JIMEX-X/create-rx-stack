@@ -90,7 +90,7 @@ export default function InstallationPage() {
               repository:
             </p>
             <CodeBlock
-              code="git clone https://github.com/JIMEX-M/create-rx-stack.git"
+              code="git clone https://github.com/JIMEX-X/create-rx-stack.git"
               language="bash"
             />
             <p>Then install dependencies and link the package:</p>

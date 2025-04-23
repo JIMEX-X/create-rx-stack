@@ -12,7 +12,7 @@ export function SiteFooter() {
           <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
             Built by{" "}
             <a
-              href="https://github.com/JIMEX-M"
+              href="https://github.com/JIMEX-X"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
@@ -21,7 +21,7 @@ export function SiteFooter() {
             </a>
             . The source code is available on{" "}
             <a
-              href="https://github.com/JIMEX-M/create-rx-app"
+              href="https://github.com/JIMEX-X/create-rx-app"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"

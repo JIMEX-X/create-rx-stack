@@ -160,7 +160,7 @@ export default function Home() {
                 Get Started
               </Link>
               <Link
-                href="https://github.com/JIMEX-M/create-rx-stack"
+                href="https://github.com/JIMEX-X/create-rx-stack"
                 className="inline-flex h-10 items-center justify-center rounded-md border border-zinc-200 bg-transparent px-8 text-sm font-medium text-white shadow-sm transition-colors hover:bg-white/10 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-zinc-300"
               >
                 View on GitHub

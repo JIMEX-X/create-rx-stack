@@ -203,7 +203,7 @@ export function MobileNavModal({ open, onClose, routes }: MobileNavModalProps) {
                       className="px-4 py-1"
                     >
                       <Link
-                        href="https://github.com/JIMEX-M/create-rx-stack"
+                        href="https://github.com/JIMEX-X/create-rx-stack"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex w-full items-center justify-between py-6 text-lg text-muted-foreground"
