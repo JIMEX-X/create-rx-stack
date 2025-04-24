@@ -179,7 +179,7 @@ export default function TroubleshootingPage() {
         <ul className="list-disc pl-6 space-y-2">
           <li>
             <a
-              href="https://github.com/rx-developer/create-rx-app/issues"
+              href="https://github.com/JIMEX-X/create-rx-app/issues"
               className="text-purple-600 hover:text-purple-700 dark:text-purple-400 dark:hover:text-purple-300"
             >
               Open an issue on GitHub
